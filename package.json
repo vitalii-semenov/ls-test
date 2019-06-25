@@ -1,0 +1,14 @@
+{
+  "name": "js_clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "node-static": "0.7.11"
+  },
+  "author": "",
+  "license": "ISC"
+}

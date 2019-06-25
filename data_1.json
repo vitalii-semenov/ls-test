@@ -1,0 +1,19 @@
+[
+    {
+        "guid": "1",
+        "isActive": false,
+        "children": [
+            {
+                "guid": "2",
+                "isActive": true,
+                "children": [
+                    {
+                        "guid": "1",
+                        "isActive": false,
+                        "children": []
+                    }
+                ] 
+            }
+        ]
+    }
+]
